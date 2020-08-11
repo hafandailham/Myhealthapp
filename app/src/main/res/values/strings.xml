@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MyHealthApp</string>
+    <string name="move_activity">Ayo Jaga Diri!</string>
+    <string name="Cara_Cuci_Tangan">Cara Cuci Tangan</string>
+    <string name="cara_hidup_sehat_pada_pandemi_covid_19">Cara hidup sehat pada Pandemi Covid-19</string>
+    <string name="_1_rajin_mencuci_tangan">1.Rajin mencuci tangan </string>
+    <string name="_2_jaga_jarak">2.Jaga jarak dengan orang lain</string>
+    <string name="_3_selalu_pakai_masker">3.Selalu pakai masker saat bepergian</string>
+    <string name="_4_melakukan_pola_hidup_sehat">4.Melakukan Pola Hidup Sehat</string>
+    <string name="_5_rajin_berolahraga">5.Rajin berolahraga</string>
+    <string name="Cara_cuci_tangan">Cara Mencuci Tangan</string>
+    <string name="cara_mencuci_tangan_dengan_benar">Cara Mencuci Tangan Dengan Baik dan Benar</string>
+    <string name="_1_basahi_tangan_dengan_air_mengalir">1.Basahi tangan dengan air mengalir.</string>
+    <string name="_2_tuang_sabun_pada_tangan_secukupnya">2.Tuang sabun pada tangan secukupnya dan ratakan dengan kedua tangan.</string>
+    <string name="_3_gosok_punggung">3.Gosok masing-masing punggung dan sela-sela jari tangan.</string>
+    <string name="_4_gosok_telapak">4.Gosok telapak tangan dan sela-sela jari tangan.</string>
+    <string name="_5_gosok_ibu_jari">5.Gosok ibu jari secara berputar</string>
+    <string name="_6_gosok_jari">6.Gosok secara berputar ujung jari_jari tangan.</string>
+    <string name="_7_bilas">7.Bilas tangan dengan air mengalir.</string>
+    <string name="_8_keringkan">8.Keringkan tangan dengan kain yang bersih</string>
+    <string name="_9_tangan">9.Tangan kini sudah bersih</string>
+    <string name="Cara_pakai_masker">Cara Pakai Masker</string>
+    <string name="cara_memakai_masker_dengan_benar">Cara Memakai Masker Dengan Baik dan Benar</string>
+    <string name="_1_pastikan">1.Pastikan bahwa ukuran masker pas dengan wajah Anda, tidak kebesaran atau kekecilan.</string>
+    <string name="_2_mencuci_tangan">2.Selalu cuci tangan dengan sabun atau menggunakan hand sanitizer, sebelum menyentuh masker dan memasangnya.</string>
+    <string name="_3_cari_sisi_luar">3.Cari sisi luar masker.(luar berwarna hijau,dalam berwarna putih)</string>
+    <string name="_4_tentukan_sisi_atas">4.Tentukan sisi atas masker, biasanya ditandai dengan adanya garis kawat hidung.</string>
+    <string name="_5_masker_karet">5.Untuk masker karet: Anda hanya perlu mengaitkan tali karet di belakang telinga.</string>
+    <string name="_6_cubit">6.cubit bagian kawatnya untuk mengikuti lekuk hidung Anda agar masker lebih tertutup rapat.</string>
+    <string name="_7_cubit">7.Panjangkan lipatan-lipatan masker  kebawah untuk menutup semua bagian.</string>
+    <string name="pola_hidup_sehat">Pola Hidup Sehat</string>
+    <string name="pola_hidup_sehat_">Pola Hidup Sehat Menurut Saya</string>
+    <string name="_1_makan_makanan_sehat_dan_begizi">1.Selalu makan makanan yang sehat dan bergizi</string>
+    <string name="_2_rajin">2.Rajin berolahraga</string>
+    <string name="_3_Pola">3.Melakukan pola hidup sehat</string>
+    <string name="_4_vitamin">4.Meminum vitamin atau jamu tuk meningkatkan kekebalan tubuh</string>
+    <string name="_5_jam_tidur">5.Mengatur jam tidur</string>
+
+
+
+</resources>
